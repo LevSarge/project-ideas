@@ -1,0 +1,32 @@
+Capstone Ideas (Python-AH3)
+
+Idea 1: Dungeons and Dragons Quick Character Creator
+Have you ever just needed to create yourself a new character for that one shot your friend talked about, but you wanted to speed up the process? 
+Maybe even not have to use dice to do it? 
+You tried D&D Beyond but hate how they locked features behind subscription services. 
+OrcPub was nice but it had legal action taken against it, so what to do?
+-I had this idea swimming around in my brain when I was studying web development but I felt like JavaScript was making the whole process too complicated.
+
+Idea 2: Build Your Music Collection
+I love collecting music, whether it's CDs, Vinyl, Cassette, or even MP3 files. 
+-catalog your collection, 
+-edit metadata, 
+-how many times you listened through individual songs or whole albums?
+
+Idea 3: Randomized Monster Fighter
+-I remember playing "Kingdom of Loathing", a browser based RPG game where you were a stick-man fighting monsters, gaining loot and getting upgrades.
+-A Flask application where you could:
+  - have a randomly generated character with different stats (which you could save to a file)
+  - go through randomly generated battles with monsters 
+  - options to rest or continue to another battle
+  
+ Idea 4: Build a Diet Plan
+ -Thinking of changing your diet to have more vegetables, fruits, seafood, etc.?
+ -Track exercise time and routines
+ -Meditation section for mental and emotional health
+ 
+ Idea 5: Writing/Drawing prompt randomizer
+-Randomizer for themes to write
+-Randomizer for drawing prompts
+-Randomizer that could mix and match text from dictionaries from both
+-Options for user submitted prompts to be mixed in with prompts if stored 
